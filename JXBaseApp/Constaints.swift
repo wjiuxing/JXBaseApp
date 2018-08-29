@@ -17,5 +17,6 @@ extension UIColor {
 }
 
 extension String {
-    static let wwwHost = "http://zhangxi.me/bbs"
+    // FIXME: change it with yours.
+    static let wwwHost = "https://www.apple.com"
 }

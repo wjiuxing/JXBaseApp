@@ -46,7 +46,7 @@ class UserProfileViewController: BaseViewController {
 
 extension UserProfileViewController {
     @objc func visitButtonTouched(_ barButton: UIBarButtonItem) {
-        let vc = SFSafariViewController(url: URL(string: "https://github.com/wjiuxing/PSStackedView")!)
+        let vc = SFSafariViewController(url: URL(string: "https://github.com/wjiuxing/JXBaseApp")!)
         present(vc, animated: true)
     }
 }
