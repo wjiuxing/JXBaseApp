@@ -1,4 +1,5 @@
-#前言
+# 前言
+
 最近公司换了老板，大搞（*瞎*）创（*折*）新（*腾*），各个部门更是撸起袖子加油干（*你懂的*）。一个多月时间，竟然连着干出了四五个App（*汗~~*）。
 每次搭建项目架构都要从头来一遍，有不少工作是相同的，故而打算写个模板，以后直接拿来改一改就好了（*还是希望这种情况不要有以后了*）。
 所以，这就引申出一个问题——如何完美修改项目名称。下面就以 JXBaseApp 为模板，修改项目名为 Juvenile。
@@ -52,3 +53,9 @@
 
 14. 至此，项目名修改完成，cmd + r 让小项目 run 起来：
 ![新项目跑起来](steps-to-change-project-name/15-runnable.png)
+
+## 作者
+**Jiuxing Wang** *email: wangjiuxing2010@hotmail.com*
+
+## License
+JXBaseApp is released under MIT license. See LICENSE for details.
